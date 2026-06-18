@@ -68,5 +68,3 @@ python main.py
 ## Autor
 
 Brenno Gomes
-github.com/BrennoGomes1
-bgdev.com.br
